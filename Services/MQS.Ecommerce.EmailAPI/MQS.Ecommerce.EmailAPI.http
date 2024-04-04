@@ -1,0 +1,6 @@
+@MQS.Ecommerce.EmailAPI_HostAddress = http://localhost:5181
+
+GET {{MQS.Ecommerce.EmailAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

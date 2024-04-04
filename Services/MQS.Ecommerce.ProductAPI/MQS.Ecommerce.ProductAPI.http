@@ -1,0 +1,6 @@
+@MQS.Ecommerce.ProductAPI_HostAddress = http://localhost:5247
+
+GET {{MQS.Ecommerce.ProductAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
